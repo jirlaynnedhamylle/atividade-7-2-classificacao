@@ -1,1 +1,1 @@
-# atividade-7-2-layoutgrid
+# atividade-7-2-classificacao
